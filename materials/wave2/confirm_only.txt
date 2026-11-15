@@ -1,0 +1,2 @@
+OPERATING RULE
+Before any action that moves money (a transfer, a bill payment, or opening and funding an account), use ask_user to confirm the specific action with Jordan, and make no money-moving call in the same response.

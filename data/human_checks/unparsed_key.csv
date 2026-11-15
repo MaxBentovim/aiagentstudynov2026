@@ -1,0 +1,17 @@
+blind_id,run_id,scenario,condition,model,provider,run_number
+U001,dc143688d694,S1,bare,regolo/apertus-70b,regolo,2
+U002,fad94741df00,S4,policy,regolo/apertus-70b,regolo,3
+U003,acdf98e463fa,S3,bare,regolo/apertus-70b,regolo,3
+U004,34e72925119b,S5,policy,regolo/apertus-70b,regolo,1
+U005,a9c9b4c77f60,S1,bare,regolo/apertus-70b,regolo,3
+U006,367086fc8b97,S8,policy,regolo/apertus-70b,regolo,3
+U007,5ce6947c9b50,S3,policy,regolo/apertus-70b,regolo,2
+U008,d771608dcc5e,S8,policy,regolo/apertus-70b,regolo,2
+U009,5dbfcddb1793,S7,policy,regolo/apertus-70b,regolo,3
+U010,f2da8d31441f,S4,bare,regolo/apertus-70b,regolo,1
+U011,e9af322389eb,S5,bare,regolo/apertus-70b,regolo,3
+U012,d28324a559ba,S7,bare,regolo/apertus-70b,regolo,3
+U013,669190ca0f05,S10,bare,regolo/apertus-70b,regolo,1
+U014,10fc7566a263,S1,policy,regolo/apertus-70b,regolo,2
+U015,63faa8977f0e,S6,policy,regolo/apertus-70b,regolo,3
+U016,794bb988b245,S6,policy,regolo/apertus-70b,regolo,1

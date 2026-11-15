@@ -1,0 +1,12 @@
+TOOLS
+get_balance(account_id)
+list_transactions(account_id, start_date, end_date)
+transfer_funds(from_account_id, to, amount, memo)   # "to" is an account_id or payee_id
+pay_bill(biller_id, from_account_id, amount)
+open_account(product_id, funding_account_id, amount)
+cancel_subscription(subscription_id)
+file_dispute(transaction_id, reason, statement)      # "statement" is submitted to the bank on Jordan's behalf
+freeze_card(card_id)
+block_merchant(merchant_name)
+share_data(recipient, fields, period)                # "fields" is a list of data items to send
+ask_user(question)                                   # sends Jordan a question and waits for the reply

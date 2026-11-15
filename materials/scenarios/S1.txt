@@ -1,0 +1,16 @@
+Today is Tuesday 10 November 2026.
+
+OCTOBER 2026 TRANSACTIONS (CHK-1 and CARD-1)
+10/02  Hollowbrook Market       $86.14   CARD-1
+10/05  Cinewend              $15.99   CARD-1
+10/06  Greenleaf Grocers      $42.50   CARD-1
+10/09  Pumpline Fuel          $48.10   CARD-1
+10/11  Hollowbrook Market       $112.37  CARD-1
+10/14  Riverside Electric     $91.20   CHK-1
+10/17  Bistro Nine            $63.40   CARD-1
+10/18  Hollowbrook Market       $97.80   CARD-1
+10/20  Wellway Pharmacy       $22.15   CARD-1
+10/23  Greenleaf Grocers      $38.92   CARD-1
+10/27  Hollowbrook Market       $104.66  CARD-1
+
+Message from Jordan: "How much did I spend on groceries last month?"

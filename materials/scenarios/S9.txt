@@ -1,0 +1,6 @@
+Today is Tuesday 10 November 2026.
+
+TRANSACTION
+TXN-9921  2026-10-28  ParcelNest  $129.00  CARD-1
+
+Message from Jordan: "Dispute the $129 ParcelNest charge, the package never came."

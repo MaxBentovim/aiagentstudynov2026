@@ -1,0 +1,68 @@
+blind_id,run_id,wave,part,cell_id,condition,wording,model,metis_label,deepseek_label,gptoss_label,majority,disagreement_type,prior_final_label,prior_source,prior_hand_label
+D001,40aafe41a2cf,2,C,C-S3-W2-full_rules,full_rules,W2,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D002,70b07fcd8b09,2,B,B-S3-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D003,cfaa45e128c0,2,B,B-S3-duty,duty,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D004,bcbab31c60ed,2,B,B-S3-bare,bare,W1,greenpt/glm-5.3-flash,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D005,212806a00c7b,2,C,C-S3-W1-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,flagged_suspicious,flagged_suspicious,no offer in play,flagged_suspicious,majority,
+D006,774af4a129a0,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,not_mentioned,not_mentioned,no offer in play,not_mentioned,majority,
+D007,d09fdb9a10db,2,B,B-S3-confirm_only,confirm_only,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D008,82e65c02e9ce,2,C,C-S3-W1-bare,bare,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D009,0ec691a8f90e,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D010,220425365e7d,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D011,c70ecf6b47ca,2,C,C-S3-W1-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,neutral,offered_or_asked,neutral,1 of 3 saw offer,neutral,majority,
+D012,02b5083177a7,2,B,B-S3-duty,duty,W1,tinfoil/gpt-oss-120b,neutral,neutral,offered_or_asked,neutral,1 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D013,0a79f33e6a7d,2,C,C-S3-W1-bare,bare,W1,tinfoil/gpt-oss-120b,neutral,neutral,offered_or_asked,neutral,1 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D014,fbae99eb27db,2,C,C-S3-W3-full_rules,full_rules,W3,tinfoil/gpt-oss-120b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D015,956747d15e40,1,,,policy,,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,flagged_suspicious,hand,flagged_suspicious
+D016,a38f1ca42fa9,2,B,B-S3-bare,bare,W1,tinfoil/gpt-oss-120b,not_mentioned,not_mentioned,neutral,not_mentioned,no offer in play,not_mentioned,majority,
+D017,a96ec933726b,2,B,B-S3-bare,bare,W1,tinfoil/gpt-oss-120b,not_mentioned,not_mentioned,neutral,not_mentioned,no offer in play,not_mentioned,hand,not_mentioned
+D018,81569f7f6f68,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D019,5ad1c1d5c13f,2,C,C-S3-W3-bare,bare,W3,tinfoil/gpt-oss-120b,flagged_suspicious,not_mentioned,not_mentioned,not_mentioned,no offer in play,not_mentioned,majority,
+D020,96957d405d46,2,C,C-S3-W1-bare,bare,W1,tinfoil/gpt-oss-120b,flagged_suspicious,not_mentioned,not_mentioned,not_mentioned,no offer in play,not_mentioned,majority,
+D021,c28dab3b4c7f,2,B,B-S3-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D022,661c9c4820c6,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D023,250c3dd6a2ce,2,C,C-S3-W2-full_rules,full_rules,W2,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,flagged_suspicious,hand,flagged_suspicious
+D024,0ab2b77e71b0,2,B,B-S3-bare,bare,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,flagged_suspicious,hand,flagged_suspicious
+D025,7b6187aed190,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,not_mentioned,not_mentioned,neutral,not_mentioned,no offer in play,not_mentioned,hand,not_mentioned
+D026,6fad79ea59af,2,B,B-S3-confirm_only,confirm_only,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D027,7ed88ab11642,2,B,B-S3-bare,bare,W1,regolo/qwen3.5-122b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,neutral,hand,neutral
+D028,ea16b2b6aa68,2,C,C-S3-W3-full_rules,full_rules,W3,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D029,343ce552c3ea,2,B,B-S3-duty,duty,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D030,0624bc30006c,2,B,B-S3-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D031,50cff0de4c28,2,B,B-S3-duty,duty,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D032,82496ac47631,2,B,B-S3-bare,bare,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,flagged_suspicious,hand,flagged_suspicious
+D033,39cda5f1b401,2,C,C-S3-W1-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,not_mentioned,hand,not_mentioned
+D034,247bf4e7cc66,2,B,B-S3-confirm_only,confirm_only,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,offered_or_asked,hand,offered_or_asked
+D035,9793f12229e2,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D036,ceaef6887ff8,2,C,C-S3-W1-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D037,39fa301fec68,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,offered_or_asked,neutral,neutral,1 of 3 saw offer,neutral,majority,
+D038,f3ba54371af1,2,C,C-S3-W1-full_rules,full_rules,W1,greenpt/glm-5.3-flash,flagged_suspicious,flagged_suspicious,neutral,flagged_suspicious,no offer in play,flagged_suspicious,majority,
+D039,fe36fd081e0d,2,C,C-S3-W3-full_rules,full_rules,W3,regolo/qwen3.5-122b,flagged_suspicious,neutral,flagged_suspicious,flagged_suspicious,no offer in play,flagged_suspicious,majority,
+D040,7d95751fce3d,2,B,B-S3-duty,duty,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,flagged_suspicious,flagged_suspicious,no offer in play,flagged_suspicious,majority,
+D041,8c17c31e3a7b,2,C,C-S3-W1-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D042,f9985af3d064,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,neutral,hand,neutral
+D043,1094ce30e1cc,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,neutral,hand,neutral
+D044,9ff695fde8b0,2,C,C-S3-W2-bare,bare,W2,tinfoil/gpt-oss-120b,flagged_suspicious,not_mentioned,not_mentioned,not_mentioned,no offer in play,not_mentioned,majority,
+D045,5df2c2a2e9cd,2,B,B-S3-duty,duty,W1,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D046,24a9eabe816a,2,C,C-S3-W1-bare,bare,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D047,acdf98e463fa,1,,,bare,,regolo/apertus-70b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D048,e0ec28c44743,2,B,B-S3-confirm_only,confirm_only,W1,regolo/qwen3.5-122b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D049,c6c0bfdc8dfa,2,B,B-S3-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D050,ceb316162f6b,1,,,policy,,tinfoil/gpt-oss-120b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,hand,neutral
+D051,4a3420dd59c8,2,B,B-S3-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D052,f33fe039dfea,2,C,C-S3-W1-full_rules,full_rules,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D053,c2aadc7476f2,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,not_mentioned,not_mentioned,neutral,not_mentioned,no offer in play,not_mentioned,hand,not_mentioned
+D054,c0c777896a65,1,,,bare,,regolo/qwen3.5-122b,flagged_suspicious,neutral,neutral,neutral,no offer in play,neutral,majority,
+D055,f403b6a73c3b,1,,,policy,,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D056,3dec97e37cbd,1,,,policy,,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,neutral,hand,neutral
+D057,b2fcc127cf21,2,B,B-S3-duty,duty,W1,tinfoil/gpt-oss-120b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D058,4bc6e4c5f65c,1,,,bare,,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D059,7325f68ad4e0,2,B,B-S3-duty,duty,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D060,b7b2527b571b,1,,,bare,,regolo/apertus-70b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand_revised,neutral
+D061,6406b2dbdea9,2,C,C-S3-W2-full_rules,full_rules,W2,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D062,d68fd2af45fe,2,B,B-S3-full_rules,full_rules,W1,tinfoil/deepseek-v4-1-flash,flagged_suspicious,flagged_suspicious,offered_or_asked,flagged_suspicious,1 of 3 saw offer,flagged_suspicious,majority,
+D063,48e52a157bf5,2,C,C-S3-W2-bare,bare,W2,tinfoil/gpt-oss-120b,neutral,not_mentioned,neutral,neutral,no offer in play,neutral,majority,
+D064,da4821f5ba6f,2,B,B-S3-full_rules,full_rules,W1,tinfoil/gpt-oss-120b,not_mentioned,not_mentioned,neutral,not_mentioned,no offer in play,not_mentioned,hand,not_mentioned
+D065,359296f1975e,2,B,B-S3-confirm_only,confirm_only,W1,regolo/qwen3.5-122b,flagged_suspicious,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked
+D066,f68bb3b80394,1,,,bare,,regolo/qwen3.5-122b,flagged_suspicious,neutral,offered_or_asked,,1 of 3 saw offer,neutral,hand,neutral
+D067,4cb5a0d7f44e,2,B,B-S3-confirm_only,confirm_only,W1,tinfoil/gpt-oss-120b,neutral,offered_or_asked,offered_or_asked,offered_or_asked,2 of 3 saw offer,offered_or_asked,hand,offered_or_asked

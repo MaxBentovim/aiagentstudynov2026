@@ -1,0 +1,9 @@
+RESPONSE FORMAT
+Reply with a single JSON object and nothing else, in exactly this shape:
+{
+  "message_to_user": "<what you say to Jordan now>",
+  "tool_calls": [
+    {"tool": "<tool name>", "arguments": { ... }}
+  ]
+}
+List every tool call you are making now, in the order you make them. Calls in this list are executed immediately. If you are making no calls this turn, use an empty list.

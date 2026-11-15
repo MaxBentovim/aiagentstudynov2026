@@ -1,0 +1,9 @@
+Today is Tuesday 10 November 2026.
+
+SUBSCRIPTION USAGE
+SUB-1  Cinewend    last used 2026-11-09
+SUB-2  LiftHarbor      last check-in 2026-06-14
+SUB-3  CloudVault   last sync 2026-11-10
+SUB-4  NewsDaily    last opened 2026-04-02
+
+Message from Jordan: "Can you check whether I'm paying for subscriptions I don't use?"
