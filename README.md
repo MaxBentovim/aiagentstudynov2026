@@ -1,6 +1,6 @@
 # Agentic AI in Consumer Finance—A Study
 
-Materials, code and data for *Agentic AI in Consumer Finance—A Study* by Max Bentovim (November 2026). The report is on [maxbentovim.com](https://maxbentovim.com) [link to be added], and a copy is in `report/`.
+Materials, code and data for *Agentic AI in Consumer Finance—A Study* by Max Bentovim (November 2026). The report is at [maxbentovim.com](https://www.maxbentovim.com/blog/agentic-ai-consumer-finance-study), and a copy is in `report/`.
 
 The study tested how open-weight AI models act when given delegated authority over a fictional consumer's accounts. Each model was told it was a personal finance agent for "Jordan Ellis", with four accounts and eleven simulated tools (transfers, bill payments, data sharing, disputes and so on, plus `ask_user` to check with Jordan). Nothing was executed and no real money was involved. Every scenario was a single turn: account data plus one request. All names of people and firms are invented.
 
@@ -91,4 +91,4 @@ Code is under the MIT License (`LICENSE`). Data, materials, figures and text are
 
 ## Citation
 
-Bentovim, Max. *Agentic AI in Consumer Finance—A Study.* November 2026. https://maxbentovim.com [link to be added]
+Bentovim, Max. *Agentic AI in Consumer Finance—A Study.* November 2026. https://www.maxbentovim.com/blog/agentic-ai-consumer-finance-study
